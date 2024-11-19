@@ -13,7 +13,4 @@ BMI is a measurement indicator used to determine the ideal weight category or no
 <div>
 <b>Youtube :</b>
 <a href="https://youtu.be/oAVkXa76lzw?si=LQ4tNoU5tCqrKPZ4"><b>Click Me</b></a>
-<br>
-<b>Github :</b>
-<a href="https://github.com/refinedguides/bmi-calculator"><b>Click Me</b></a>
 </div>
